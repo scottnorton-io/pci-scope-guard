@@ -1,7 +1,5 @@
 # Project Architecture & Repository Structure
 
-# Project Architecture & Repository Structure
-
 **Complete Solution for Automated PCI DSS CDE Scope Identification**
 
 ---
