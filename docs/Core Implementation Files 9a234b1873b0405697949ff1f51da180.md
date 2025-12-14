@@ -1,5 +1,3 @@
-# Core Implementation Files
-
 # Core Implementation Files - Complete
 
 **Production-ready source code for PCI Scope Guard**
