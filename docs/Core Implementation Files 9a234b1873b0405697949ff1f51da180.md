@@ -155,14 +155,14 @@ print(f\"Generated {len(evidence_list)} evidence artifacts\")
 
 ```mermaid
 graph TB
-    Config[[config.py](http://config.py)] --> Database[[database.py](http://database.py)]
-    Database --> Models[[models.py](http://models.py)]
+    Config[[config.py]] --> Database[[database.py]]
+    Database --> Models[[models.py]]
     
-    Models --> AWSDisc[aws_[discovery.py](http://discovery.py)]
+    Models --> AWSDisc[[aws_discovery.py]]
     Database --> AWSDisc
     Config --> AWSDisc
     
-    Models --> Classifier[scope_[classifier.py](http://classifier.py)]
+    Models --> Classifier[[scope_classifier.py]]
     Database --> Classifier
     Config --> Classifier
     
