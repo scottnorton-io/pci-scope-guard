@@ -1,7 +1,5 @@
 # Automated CDE Scope Identification in Cloud Environments
 
-# Automated CDE Scope Identification in Cloud Environments
-
 **Solving the Cloud Inventory Scoping Challenge for PCI DSS v4**
 
 ---
@@ -735,8 +733,6 @@ This would provide a working reference implementation for the broader compliance
 **Last Updated**: December 2025
 
 **Author**: Scott Norton
-
-**License**: MIT
 
 **License**: MIT
 
