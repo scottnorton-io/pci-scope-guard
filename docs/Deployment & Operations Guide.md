@@ -1,7 +1,5 @@
 # Deployment & Operations Guide
 
-# Deployment & Operations Guide
-
 **Complete deployment documentation for all environments**
 
 ---
